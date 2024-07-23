@@ -88,3 +88,8 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+.reset-btn{
+  margin-top : 12px;
+  margin-left : 25px;
+}
